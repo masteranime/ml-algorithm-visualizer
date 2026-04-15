@@ -106,7 +106,7 @@ ml-algorithm-visualizer/
 
 ## 📝 License
 
-MIT © [Muhammad_Shaheer]([https://github.com/shaheerawan3](https://github.com/masteranime))
+MIT © [Muhammad_Shaheer](https://github.com/masteranime)
 
 ---
 
